@@ -40,7 +40,6 @@ That's why I like to make things that make a difference.
 - 🔭 I’m currently working on [Full Stack Developer]
 - 💬 Ask me about anything, I am happy to help
 - 🌱 I'm currently learning:
-  - Data Structures and Algorithms on [LeetCode](https://leetcode.com/aswin26barath/)
   - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> ecosystem
 - 📬 How to reach me: [laterohit123456@gmail.com](mailto:laterohit123456@gmail.com)
 - 📝 [Resume](https://drive.google.com/file/d/1UAGDS-S5tCkn5ji0FqdHSkBVBf5tOgVz/view?usp=sharing).
